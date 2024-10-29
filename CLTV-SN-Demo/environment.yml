@@ -1,0 +1,9 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - matplotlib=3.8.4
+  - more-itertools=*
+  - seaborn=0.12.2
+  - snowflake-ml-python=1.5.0
+  - snowflake.core=0.8.0
